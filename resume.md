@@ -16,4 +16,4 @@ B.S. Engineering Physics/M.S. Quantum Engineering
 - C++
 - Cool and awesome physics things
 
-![Headshot]("images\selfie.jpg")
+![Headshot](images/selfie.jpg)
