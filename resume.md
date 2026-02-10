@@ -16,4 +16,4 @@ B.S. Engineering Physics/M.S. Quantum Engineering
 - C++
 - Cool and awesome physics things
 
-![Headshot]("C:\Users\cjcin\OneDrive\Desktop\selfie.JPG)
+![Headshot]("images\selfie.jpg")
